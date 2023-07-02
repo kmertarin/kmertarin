@@ -12,5 +12,7 @@ I am committed to continuous learning and staying up-to-date with the latest ind
 
 Let's connect and collaborate on exciting projects that push the boundaries of QA engineering and contribute to delivering exceptional software experiences!
 
+Skills and Languages: Java, PostgreSQL, MySQL, JDBC, Postman, RestAssured, Selenium WebDriver, JUnit, TestNG, Cucumber, Jenkins, Maven
+
 Feel free to reach me out from this mail address. 
 kmertarin@gmail.com
