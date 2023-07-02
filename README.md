@@ -1,6 +1,6 @@
 Here is a young and passionate QA Engineer with a strong focus on delivering high-quality software. Experienced in automated testing using Selenium and Java. I thrive in dynamic and collaborative environments, working closely with development teams to ensure the delivery of robust and reliable software solutions.
 
-My love for computers began at an early age, and I have decided to see computers also in my education life.Now I am currently a Freshman at Jacksonville State University, pursuing a degree in Computer Science.
+My love for computers began at an early age, and I have decided to see computers also in my education life. Now I am currently a Freshman at Jacksonville State University, pursuing a degree in Computer Science.
 
 My journey in QA engineering has allowed me to develop a deep understanding of test automation frameworks, test design, and defect tracking methodologies. With expertise in Selenium WebDriver, I have effectively automated test cases to improve efficiency and accuracy, enabling faster releases without compromising on quality.
 
